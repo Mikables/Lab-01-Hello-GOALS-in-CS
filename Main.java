@@ -5,6 +5,6 @@ public class Main
 {
     public static void main(String[] args)
     {
-        System.out.println("Hello, GOALS in CS!.");
+        System.out.println("Hello, GOALS in CS!");
     }
 }
